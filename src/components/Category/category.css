@@ -1,0 +1,25 @@
+.category{
+width: 90%;
+display: flex;
+flex-direction: column;
+margin-top: 10px;
+}
+
+.category ul{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    background-color: white;
+    border-top: 3px solid #71B3DD;
+
+
+}
+.category ul li{
+    list-style: none;
+    color: #71B3DD;
+    padding: 9px 0px;
+}
+.line{
+    width: 1px;
+    background-color: rgb(180, 180, 180);
+}

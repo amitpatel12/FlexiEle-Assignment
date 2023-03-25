@@ -1,0 +1,18 @@
+.application__details{
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* border: 2px solid red; */
+
+}
+.source__details{
+    margin: 4px 2px;
+}
+.hired__details .post{
+    border: 1px solid  green;
+}
+
+.rejected__details .post{
+    border: 1px solid red;
+}

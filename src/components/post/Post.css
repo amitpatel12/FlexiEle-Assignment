@@ -1,0 +1,20 @@
+.post{
+    display: flex;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 19px 0px;
+    font-size: 13px;
+}
+.post-details{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    margin-left: 10px;
+}
+.image img{
+    width: 50px;
+    border-radius: 6px;
+    margin-top: 5px;
+}
